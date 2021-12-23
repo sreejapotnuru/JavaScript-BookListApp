@@ -1,0 +1,44 @@
+JAVASCRIPT BOOKLIST APP
+
+FOR HTML FILE (INDEX.HTML)
+
+1. CREATE A BASIC HTML TEMPLATE 
+
+open https://bootswatch.com/ there we can find lot of free themes here we use 
+theme named "YETI"
+
+click on YETI and download that file which will download "bootstrap.min.css" of yeti theme.
+
+now use that file and add that file in booklist app
+
+2. ADD BOOTSTRAP CSS FILE IN HEAD 
+
+<link rel="stylesheet" href="bootstrap.min.css">
+
+3. INSTALL A PACKAGE "npm install bootstrap" 
+
+4. ADD FONTAWESOME ICONS IN HEAD 
+
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+5. ADD CODE RELATED TO BOOKLIST APP IN BODY 
+
+6. LINK JS FILE IN BODY 
+
+<script src="app.js"></script>
+
+FOR JS FILE (APP.JS)
+
+Here we use OBJECT ORIENTED JAVASCRIPT 
+
+where we can create classes.
+
+CLASSES:
+
+1.BOOK
+2.UI
+3.STORE
+
+
+-- Each class has methods and conditions.
